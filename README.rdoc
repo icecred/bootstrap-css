@@ -1,3 +1,21 @@
 = Bootstrap CSS
 
+== Note: this gem is not properly tested
+
+= It is just a test project
+
+License:
 This project rocks and uses MIT-LICENSE.
+
+How to install:
+
+in Gemfile add:
+gem 'bootstrap-css', :git => 'git@github.com:icecred/bootstrap-css.git', :branch => 'master'
+
+in application.js add this line
+//= require bootstrap
+
+in application.js add this line
+*= require bootstrap
+
+import fonts files
