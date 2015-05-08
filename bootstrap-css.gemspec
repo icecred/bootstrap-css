@@ -1,3 +1,5 @@
+require File.expand_path('../lib/bootstrap/css/version', __FILE__)
+
 Gem::Specification.new do |s|
   s.name        = "bootstrap-css"
   s.version     = Bootstrap::Css::VERSION
@@ -12,3 +14,4 @@ Gem::Specification.new do |s|
   # s.required_rubygems_version = ">= 1.3.6"
   s.rubyforge_project         = "bootstrap-css"
 end
+
