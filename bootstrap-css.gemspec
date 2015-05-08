@@ -1,5 +1,3 @@
-require File.expand_path('../lib/jquery/rails/version', __FILE__)
-
 Gem::Specification.new do |s|
   s.name        = "bootstrap-css"
   s.version     = Bootstrap::Css::VERSION
