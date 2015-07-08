@@ -18,4 +18,4 @@ in application.js add this line
 in application.js add this line
 *= require bootstrap
 
-import fonts files [I do not know how to do it :D ]
+if fonts does not work, import fonts files. [I do not know how to do it :D ]
